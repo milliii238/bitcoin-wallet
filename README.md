@@ -39,6 +39,7 @@ You can build all sub-projects in all flavors at once using Gradle:
 
 For details about building the wallet see the [specific README](wallet/README.md).
 
+j
 
 ### REPRODUCIBLE BUILD
 
